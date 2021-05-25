@@ -27,7 +27,7 @@ url: ""
 github_username:  oddinary-peoples
 
 # Build settings
-theme: minima
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
