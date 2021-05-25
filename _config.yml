@@ -27,7 +27,7 @@ url: ""
 github_username:  oddinary-peoples
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
