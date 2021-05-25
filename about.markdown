@@ -8,16 +8,22 @@ permalink: /about/
 
 “Oddinary Peoples” was established with the purpose of providing a place where members with special skills and knowledge can make the most of their own characteristics.
 
-## 活動内容
+## Activity
 
 - メンバー同士の交流会
 - 異業種間のコネクション補助
 
-## 所在地
+- Exchange meeting between members
+- Connection assistance between different industries
+
+## Location
 
 京都府京都市（事務局）
 
-## 会員数
+Kyoto, Japan (Office)
+
+## Member
 
 非公開
 
+Undisclosed
