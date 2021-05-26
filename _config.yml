@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 逸般人の集い
+title: 完全招待制サークル「逸般人の集い」
 email: info@oddinary-peoples.com
 description: >- # this means to ignore newlines until "baseurl:"
   逸般人のための秘密結社
