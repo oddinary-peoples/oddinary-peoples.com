@@ -7,7 +7,7 @@ https://oddinary-peoples.com
 
 ## 担当
 - スケジュール管理 @0505keitan
-- フロントエンド 
+- フロントエンド @yuki384
 - バックエンド 
 
 ## コンセプト
