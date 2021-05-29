@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   逸般人のための秘密結社
 baseurl: "" # the subpath of your site, e.g. /blog
 url: ""
+GitHub: oddinary-peoples
 
 # Build settings
 theme: minima
